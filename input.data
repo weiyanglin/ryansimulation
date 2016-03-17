@@ -1,0 +1,10 @@
+Order		2
+timeAccuracy	2
+cfl		0.05
+nElement	500
+Iterations	25
+timestep	1.e-2
+timeFinal	10.0
+iFlux		5
+iCase		4
+nFrame		100
